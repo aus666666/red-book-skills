@@ -1,16 +1,5 @@
 # RedBookSkills
 
-## 赞助商
-
-**Code中转站**：<https://code.aistar.cool>
-- 1:1 美元充值
-- 已稳定运行半年
-- 支持Codex、Claude
-
-说明：中转信息仅作经验交流，请自行判断是否适合自己的使用场景。
-
-自动发布内容到小红书（Xiaohongshu/RED）的命令行工具，也支持仅启动测试浏览器（不发布）。
-通过 Chrome DevTools Protocol (CDP) 实现自动化发布，支持图文发布、视频发布、多账号管理、无头模式运行、自动搜索素材与内容数据抓取等功能。
 
 ## 风险提示（重要）
 
